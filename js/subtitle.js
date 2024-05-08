@@ -73,10 +73,10 @@ function getRandomGreeting() {
     "What's my age again?",
     "This is the 5th time this week, and it's only Monday",
     "You bum",
-    "Roblox? Cringe!",
+    "Roblox? crazy, ricky you and lucas!",
     "Toss the Turtle is pretty fun",
     "Mission failed, we will get them next time",
-    "NUKE INCOMING!",
+    "Ricky im better",
     "I spent too much time making these",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
